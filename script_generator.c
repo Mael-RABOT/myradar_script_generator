@@ -10,7 +10,7 @@
 
 void *print_man(void)
 {
-    int fd = open("README_generator.txt", O_RDONLY);
+    int fd = open("README.txt", O_RDONLY);
     if (fd == -1)
         return (NULL);
     int size = 3000;
