@@ -19,7 +19,7 @@ DESCRIPTION
 
 EXAMPLE
     ./script_generator -h
-    ./script_generator 25
+    ./script_generator 25 5
 
 REPORTING BUG
     Their is no bug
